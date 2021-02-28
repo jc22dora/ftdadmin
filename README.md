@@ -1,6 +1,6 @@
-# ftdadmin
-![alt text](https://github.com/jc22dora/ftdadmin/blob/main/Diagrams/dependencychart.png)
 
+![alt text](https://github.com/jc22dora/ftdadmin/blob/main/Diagrams/dependencychart.png)
+# ftdadmin
 ftdadmin is a package of modules I use on my local machine to control, audit, modify and maintain the ftdpack. This package should not be used and is more of a 'show and tell'. 
 
 
